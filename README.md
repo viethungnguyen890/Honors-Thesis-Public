@@ -1,10 +1,10 @@
 
 # Investigating the Effects of Birth Order on Mental Well-Being
 
-Viet-Hung Nguyen
-Department of Psychology, University of San Francisco
-Supervisor: Dr. Indre Viskontas
-December 13, 2024
+Viet-Hung Nguyen  
+Department of Psychology, University of San Francisco  
+Supervisor: Dr. Indre Viskontas  
+December 13, 2024  
 
 (Poster)
 
@@ -14,7 +14,11 @@ Mental health is a significant factor in overall health as it affects the risk f
 
 ## Acknowledgements
 
-I would like to extend my deepest gratitude to:
-Dr. Viskontas, Dr. Levy, our thesis cohort, Dr. Reese, current & former members of the Learning & Memory Lab, family & friends, the USF Psychology Faculty & Program Assistant.
+*I would like to extend my deepest gratitude to:
+Dr. Viskontas, Dr. Levy, our thesis cohort, Dr. Reese, current & former members of the Learning & Memory Lab, family & friends, the USF Psychology Faculty & Program Assistant.*
 
-I would also like to thank Dr. Joshi, Dr. Munnich, & Dr. Chun.
+*I would also like to thank Dr. Joshi, Dr. Munnich, & Dr. Chun.*
+
+## About Me
+
+[Viet-Hung Nguyen](https://www.linkedin.com/in/viet-hung-nguyen-575862205/ "Add me on LinkedIn!")

@@ -6,6 +6,8 @@ Department of Psychology, University of San Francisco
 Supervisor: Dr. Indre Viskontas  
 December 13, 2024  
 
+(To view the paper, navigate to the "WPA 2025" folder.)
+
 (Poster)
 
 ## Abstract

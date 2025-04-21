@@ -8,7 +8,8 @@ December 13, 2024
 
 (To view the paper, navigate to the "WPA 2025" folder.)
 
-(Poster)
+![image](https://github.com/user-attachments/assets/fb84eb9d-d121-4f31-a3eb-384c386600b5)
+
 
 ## Abstract
 

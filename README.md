@@ -23,4 +23,4 @@ Dr. Viskontas, Dr. Levy, our thesis cohort, Dr. Reese, current & former members 
 
 ## About Me
 
-[Viet-Hung Nguyen](https://www.linkedin.com/in/viet-hung-nguyen-575862205/ "Add me on LinkedIn!")
+[My LinkedIn Profile!](https://www.linkedin.com/in/viet-hung-nguyen-575862205/ "Add me on LinkedIn!")
